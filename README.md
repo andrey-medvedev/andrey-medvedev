@@ -65,10 +65,10 @@ My goal is to become a professional backend developer and create high-quality ap
 
    `Java` `Spring MVC` `Arduino` `Twofish`
 
-3. **[Web interface for defect monitoring](https://github.com/andrey-medvedev/UI-for-defect-detection/blob/master/Convolutional/camera_detection_phone_1200_312.py)**  
-   A web interface for monitoring product defects using a neural network autoencoder and real-time computer vision  
+2. **[A console application for filtering and analyzing data from files classified by type](https://github.com/andrey-medvedev/shift-cft-java.git)**  
+   A console application for filtering and analyzing data from files classified by type (integers/real numbers, strings) and generating statistical reports  
 
-   `Python` `Flask` `Bokeh` `JavaScript`
+   `Java` `Maven` `Stream API`
 
 ---
 
