@@ -1,67 +1,77 @@
 <div align="center">
-  <!-- Анимированный заголовок -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Привет!+👋+Я+[Ваше+Имя];Backend%2FFrontend%2FDevOps+Engineer;Люблю+решать+сложные+задачи" alt="Приветственная надпись" />
+  <h1>Hi there 👋 My name is Andrey</h1>
   
-  <!-- Соц-сети и контакты -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd20xYWtpNGI5YWFsZmtheDA0MWVzanEwNXVtd3g1bXduY3VjendyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="600" height="600"/>
+  
   <p align="center">
-    <a href="https://t.me/ваш_телеграм" target="_blank">
+    <a href="https://t.me/fkushusha1" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
-    </a>
-    <a href="https://linkedin.com/in/ваш_профиль" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-    </a>
-    <a href="mailto:ваш@email.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
     </a>
   </p>
 </div>
 
 ---
 
-### 🛠️ Технологический стек
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### 👨‍💻 About me
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+I am a self-taught programming student with a focus on Java development. Currently:
 
-**Инфраструктура:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+- 📚 I am actively mastering the Spring Framework and Hibernate
+- ⚙️ Develop educational projects for the portfolio
+- 🌱 I am constantly studying new technologies and best practices
+- 💡 I am looking for internship opportunities and real - world experience
+
+My goal is to become a professional backend developer and create high-quality applications.
 
 ---
 
-### 📊 Моя активность
-<!-- Динамическая статистика -->
+### 🛠️ Technology stack
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Статистика">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark&hide_border=true" alt="Языки">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
 </div>
 
 ---
 
-### 🔥 Последние проекты
-<!-- Автоматическое обновление через GitHub Actions -->
-#### [Проект 1](https://github.com/ВАШ_НИК/репозиторий) 
-> Краткое описание (2-3 предложения). Технологии: Java, Spring Boot, PostgreSQL
+### 📊 My activity
 
-#### [Проект 2](https://github.com/ВАШ_НИК/репозиторий) 
-> Микросервисная архитектура для обработки платежей. Технологии: Python, FastAPI, Redis
+<div align="center">
+  <a href="https://github.com/andrey-medvedev">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=andrey-medvedev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="Статистика">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-medvedev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Языки">
+  </a>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrey-medvedev&theme=github-dark-blue&hide_border=true" alt="Полоса коммитов">
+</div>
 
 ---
 
-### 📚 Блог/Достижения
-- [Статья о оптимизации Docker-образов](https://dev.to/ссылка)
-- Сертификат AWS Certified Solutions Architect
-- Участник хакатона [Название] 2024
+### 🔥 My study projects
+
+1. **[Combining Twofish with Arduino](https://github.com/andrey-medvedev/twofish-arduino.git)**
+   Encrypt files using TwoFish and transfer encrypted data via Arduino to verify integrity
+
+   `Java` `Spring MVC` `Arduino` `Twofish`
+
+3. **[Web interface for defect monitoring](https://github.com/andrey-medvedev/UI-for-defect-detection/blob/master/Convolutional/camera_detection_phone_1200_312.py)**  
+   A web interface for monitoring product defects using a neural network autoencoder and real-time computer vision  
+
+   `Python` `Flask` `Bokeh` `JavaScript`
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_НИК&color=blue&style=flat-square" alt="Просмотры профиля">
-  <p>⭐ Спасибо за визит! Хорошего дня!</p>
+  <p>⭐ Thank you for visiting! I will be glad to receive feedback!</p>
 </div>
